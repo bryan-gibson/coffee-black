@@ -106,4 +106,4 @@ coffee-black/
 
 To run the project:
 
-1. Set `ENV=production` in your `.env` file, otherwise `main` will not run.
+1. Set `ENV=production` in your `.env` file, otherwise `main()` will not run.
