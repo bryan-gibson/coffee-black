@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Messages and Queues
+src/coffee_bot/coffee_messages.json
+src/coffee_bot/message_queue.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other common ignores
+*.log
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Testing
+.coverage
+.pytest_cache/
+src/tests/README.md
+
+# IDE
+.vscode/
+.history/
