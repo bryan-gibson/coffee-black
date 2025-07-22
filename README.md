@@ -1,6 +1,6 @@
 # Coffee Black
 
-A Python bot that sends cheesy coffee messages to specified phone numbers at a random time once a day using Twilio SMS. Used as a refresher project for Python and gain some familiarity with Twilio API.
+A Python script that sends cheesy coffee messages to specified phone numbers at a random time once a day using Twilio SMS. Used as a refresher project for Python and gain some familiarity with Twilio API.
 
 ## Features
 
